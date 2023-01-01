@@ -4,7 +4,7 @@
 
 ![IMAGE](/assets/images/Preview.png)
 
-["Live Preview"](https://raw.githack.com/HossamAlbesh/Flip-Clock/main/index.html)
+["Live Preview"](https://hossamalbesh.github.io/Flip-Clock/)
 
 </div>
 
